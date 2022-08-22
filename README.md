@@ -1,8 +1,4 @@
-Our team name is Hala Madrid, and the team members are Wen Huang, Yaqun Deng, and Yichen Han.
-
-This is the backend: https://artportfolio-backend.herokuapp.com/
-
-This is the frontend: https://artportfolio-frontend.herokuapp.com/
+Description:
 
 There are three collections in MongoDB: photo, my_portfolio, reviews
 <img width="1432" alt="image" src="https://media.github.ccs.neu.edu/user/9360/files/bf1d9c99-36e9-44a5-9bcf-dafb41d6daf7">
